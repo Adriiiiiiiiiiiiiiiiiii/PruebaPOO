@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3f5cc5c-5d28-4f5d-b87a-d7f8331241f9)# Práctica de SISTEMA DE GESTIÓN DE COMPRAS ERP
+# Práctica de SISTEMA DE GESTIÓN DE COMPRAS ERP
 
 ## 📌 Información General
 
