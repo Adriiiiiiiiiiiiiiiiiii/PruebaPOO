@@ -1,4 +1,4 @@
-# Práctica de SISTEMA DE GESTIÓN DE COMPRAS ERP
+![image](https://github.com/user-attachments/assets/b3f5cc5c-5d28-4f5d-b87a-d7f8331241f9)# Práctica de SISTEMA DE GESTIÓN DE COMPRAS ERP
 
 ## 📌 Información General
 
@@ -50,4 +50,5 @@ Este sistema simula un entorno básico de gestión de compras en una empresa, in
 
 ## Diagrama UML
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/d9444708-f377-454e-8842-e1f9270c7ae7)
+
