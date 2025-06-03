@@ -26,7 +26,7 @@ Este sistema simula un entorno básico de gestión de compras en una empresa, in
 5. Listar productos  
 6. Listar solicitudes de compra  
 7. Buscar proveedor por ID  
-8. Buscar producto por nombre  ![img.png](img.png)
+8. Buscar producto por nombre 
 9. Buscar solicitud por número  
 13. Aprobar / Rechazar solicitud de compra  
 14. Calcular total de una solicitud  
